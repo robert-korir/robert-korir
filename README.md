@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here’s your biography, rewritten to maintain the original format while refining the language for clarity and impact:<br><br>Dynamic Data Analyst and Software Developer<br><br>I am a dynamic Data Analyst with in-depth knowledge and experience in a variety of programming languages, as well as expertise in communication. I bring a wealth of experience in software development using diverse programming tools and technologies.
+<br>Dynamic Data Analyst and Software Developer<br><br>I am a dynamic Data Analyst with in-depth knowledge and experience in a variety of programming languages, as well as expertise in communication. I bring a wealth of experience in software development using diverse programming tools and technologies.
 
 
 ## 🌐 Socials:
